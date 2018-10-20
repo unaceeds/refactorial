@@ -8,5 +8,5 @@ package extraction;
  *
  */
 public class Atmosphare {
-
+	private int a;
 }
